@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS presentation_monthly_total_purchase_per_product

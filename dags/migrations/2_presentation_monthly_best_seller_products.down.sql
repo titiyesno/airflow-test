@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS presentation_monthly_best_seller_products
